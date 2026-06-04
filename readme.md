@@ -110,12 +110,12 @@ const kytyji = {
 ## 📊 GitHub Stats
 
 <div align="center">
-      <img src="https://raw.githubusercontent.com/kytyji/kytyji/profile-summary-card-output/github_dark/profile-details.svg" width="100%" alt="Stats"/>
+          <img src="https://raw.githubusercontent.com/kytyji/kytyji/main/profile-summary-card-output/github_dark/profile-details.svg" width="100%" alt="Stats"/>
 </div>
 
 <div align="center">
-      <img src="https://raw.githubusercontent.com/kytyji/kytyji/profile-summary-card-output/github_dark/repos-per-language.svg" alt="Top Languages" width="49%"/>
-      <img src="https://raw.githubusercontent.com/kytyji/kytyji/profile-summary-card-output/github_dark/productive-time.svg" alt="Productive Time" width="49%"/>
+          <img src="https://raw.githubusercontent.com/kytyji/kytyji/main/profile-summary-card-output/github_dark/repos-per-language.svg" alt="Top Languages" width="49%"/>
+          <img src="https://raw.githubusercontent.com/kytyji/kytyji/main/profile-summary-card-output/github_dark/productive-time.svg" alt="Productive Time" width="49%"/>
 </div>
 
 <div align="center">
