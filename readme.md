@@ -123,7 +123,7 @@ const kytyji = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kytyji&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b00&area=true&area_color=1a3a5c" width="100%" alt="Activity Graph"/>
+      <img src="https://github-readme-activity-graph-tan-mu.vercel.app/graph?username=kytyji&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b00&area=true&area_color=1a3a5c" width="100%" alt="Activity Graph"/>
 </div>
 
 <!-- SECTION DIVIDER -->
