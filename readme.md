@@ -1,10 +1,10 @@
 <!-- GRID BACKGROUND PATTERN -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0d1f3c,60:0a2744,100:0d1117&height=300&section=header&text=Kytyji&fontSize=80&fontColor=58a6ff&animation=twinkling&fontAlignY=50&desc=Full-Stack%20Developer%20%7C%20AI%20Architect%20%7C%20Game%20Dev&descAlignY=68&descColor=8b949e&stroke=1a3a5c&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0d1f3c,60:0a2744,100:0d1117&height=300&section=header&text=Kytyji&fontSize=80&fontColor=58a6ff&animation=twinkling&fontAlignY=50&desc=Full-Stack%20Developer%20%7C%20AI%20Architect%20%7C%203D%20Hardsurface%20Artist%20%7C%20Game%20Dev&descAlignY=68&descColor=8b949e&stroke=1a3a5c&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+B2B+SaaS+%F0%9F%9A%80;Crafting+AI+Agents+%F0%9F%A4%96;Developing+Games+in+UE5+%F0%9F%8E%AE;Architecting+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;TypeScript+%7C+Supabase+%7C+Cloudflare" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+B2B+SaaS+%F0%9F%9A%80;Crafting+AI+Agents+%F0%9F%A4%96;3D+Hardsurface+Artist+%F0%9F%AA%96;Developing+Games+in+UE5+%26+Unity+%F0%9F%8E%AE;Architecting+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Tech+Art+%7C+Shaders+%7C+GPU+Optimization" alt="Typing SVG" />
 </div>
 
 ---
@@ -14,15 +14,23 @@
 ```typescript
 const kytyji = {
   location: "Moscow, Russia 🇷🇺",
-  role: "Full-Stack Developer & Entrepreneur",
-  focus: ["B2B SaaS", "AI Agents", "Game Development", "Cloud Infra"],
+  roles: [
+    "Full-Stack Developer & Entrepreneur",
+    "3D Hardsurface Artist",
+    "Tech Artist (in progress: UE5 tools)"
+  ],
+  focus: ["B2B SaaS", "AI Agents", "Game Development", "3D Art & Tech Art"],
   currentProjects: [
     "ZenPlan — offline-first B2B ERP/task tracker",
     "CraftedFashion — B2B fashion services platform",
     "SYNTHESIS: EVOLUTION OF THE CITY — cyberpunk UE5 game",
     "B2B Supplier Parser — multi-source price aggregator"
   ],
-  funFact: "I also know how to construct garment patterns ✂️"
+  funFacts: [
+    "I also know how to construct garment patterns ✂️",
+    "Sculpt & bake hardsurface props for games 🔧",
+    "Learning UE5 tech art tools for GPU optimization 📊"
+  ]
 };
 ```
 
@@ -56,9 +64,39 @@ const kytyji = {
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
+### 3D Art & Tech Art
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Substance Painter](https://img.shields.io/badge/Substance_Painter-FF6B00?style=for-the-badge&logo=adobe&logoColor=white)
+![Nomad Sculpt](https://img.shields.io/badge/Nomad_Sculpt-2D2D2D?style=for-the-badge&logo=sculpin&logoColor=white)
+![Sketchfab](https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white)
+
 ### Mobile & Desktop
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
+</div>
+
+<!-- SECTION DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1628,100:0d1117&height=3&section=header" width="100%"/>
+
+## 🤖 3D Hardsurface Art
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a1628,100:0d1117&height=2&section=header" width="100%"/>
+
+| Skill | Tools | Status |
+|-------|-------|--------|
+| 🛠️ **Hardsurface Modeling** | Blender, Nomad Sculpt | ✅ Production |
+| 🎨 **Texturing & Shading** | Adobe Substance Painter | ✅ Production |
+| ⚙️ **Shader Setup** | Unity ShaderGraph, HLSL | ✅ Production |
+| 📊 **GPU Optimization** | Unity Profiler, LODs, Batching | ✅ Production |
+| 🔬 **Tech Art UE5** | Niagara, Material Editor, Nanite | 🔄 Learning |
+
+<br/>
+
+[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/kytyji)
+[![Sketchfab](https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white)](https://sketchfab.com/kytyji)
 
 </div>
 
@@ -76,6 +114,7 @@ const kytyji = {
 | 🎮 **SYNTHESIS** | Cyberpunk factory-management game | Unreal Engine 5, C++ |
 | 📦 **B2B Supplier Parser** | Multi-source price aggregation system | Node.js, TypeScript, Docker |
 | 🤖 **JSWorker** | Telegram bot + automation worker | Cloudflare Workers, Telegram API |
+| 🔧 **3D Portfolio** | Hardsurface props, game-ready assets | Blender, Substance Painter, UE5 |
 
 </div>
 
@@ -117,6 +156,8 @@ const kytyji = {
 
 [![Telegram @kytyji](https://img.shields.io/badge/Telegram%20%40kytyji-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kytyji)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kytyji)
+[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/kytyji)
+[![Sketchfab](https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white)](https://sketchfab.com/kytyji)
 
 </div>
 
