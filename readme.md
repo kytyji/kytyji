@@ -1,11 +1,10 @@
+<!-- GRID BACKGROUND PATTERN -->
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0d1f3c,60:0a2744,100:0d1117&height=300&section=header&text=Kytyji&fontSize=80&fontColor=58a6ff&animation=twinkling&fontAlignY=50&desc=Full-Stack%20Developer%20%7C%20AI%20Architect%20%7C%20Game%20Dev&descAlignY=68&descColor=8b949e&stroke=1a3a5c&strokeWidth=2" width="100%"/>
+</div>
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Kytyji&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Architect%20%7C%20Game%20Dev&descAlignY=60&descColor=8b949e" width="100%"/>
-
-<!-- Typing animation -->
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+B2B+SaaS+%F0%9F%9A%80;Crafting+AI+Agents+%F0%9F%A4%96;Developing+Games+in+UE5+%F0%9F%8E%AE;Architecting+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;TypeScript+%7C+Supabase+%7C+Cloudflare" alt="Typing SVG" />
-
 </div>
 
 ---
@@ -27,7 +26,8 @@ const kytyji = {
 };
 ```
 
----
+<!-- SECTION DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1628,100:0d1117&height=3&section=header" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -62,7 +62,8 @@ const kytyji = {
 
 </div>
 
----
+<!-- SECTION DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1628,100:0d1117&height=3&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -78,24 +79,28 @@ const kytyji = {
 
 </div>
 
----
+<!-- SECTION DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1628,100:0d1117&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kytyji&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&rank_icon=github" alt="kytyji stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kytyji&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="top langs"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kytyji&theme=github_dark" height="165" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kytyji&theme=github_dark" height="165" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=kytyji&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
-
 </div>
 
----
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kytyji&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b00&area=true&area_color=1a3a5c" width="100%" alt="Activity Graph"/>
+</div>
+
+<!-- SECTION DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1628,100:0d1117&height=3&section=header" width="100%"/>
 
 ## 🐍 Contribution Graph
 
@@ -103,7 +108,8 @@ const kytyji = {
 <img src="https://raw.githubusercontent.com/kytyji/kytyji/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
----
+<!-- SECTION DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1628,100:0d1117&height=3&section=header" width="100%"/>
 
 ## 🌐 Connect
 
@@ -115,5 +121,5 @@ const kytyji = {
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
 </div>
