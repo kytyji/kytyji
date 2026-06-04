@@ -1,15 +1,15 @@
 <!-- GRID BACKGROUND PATTERN -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0d1f3c,60:0a2744,100:0d1117&height=300&section=header&text=Kytyji&fontSize=80&fontColor=58a6ff&animation=twinkling&fontAlignY=50&desc=Full-Stack%20Developer%20%7C%20AI%20Architect%20%7C%203D%20Hardsurface%20Artist%20%7C%20Game%20Dev&descAlignY=68&descColor=8b949e&stroke=1a3a5c&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0d1f3c,60:0a2744,100:0d1117&height=300&section=header&text=Kytyji&fontSize=80&fontColor=58a6ff&animation=twinkling&fontAlignY=50&desc=Full-Stack%20Developer%20%7C%20AI%20Architect%20%7C%203D%20Hardsurface%20Artist%20%7C%20Game%20Dev&descAlignY=68&descColor=8b949e&stroke=1a3a5c&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+B2B+SaaS+%F0%9F%9A%80;Crafting+AI+Agents+%F0%9F%A4%96;3D+Hardsurface+Artist+%F0%9F%AA%96;Developing+Games+in+UE5+%26+Unity+%F0%9F%8E%AE;Architecting+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Tech+Art+%7C+Shaders+%7C+GPU+Optimization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+B2B+SaaS+%F0%9F%9A%80;Crafting+AI+Agents+%F0%9F%A4%96;3D+Hardsurface+Artist+%F0%9F%AA%96;Developing+Games+in+UE5+%26+Unity+%F0%9F%8E%AE;Architecting+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Tech+Art+%7C+Shaders+%7C+GPU+Optimization" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🧬 About Me
+## 🧹 About Me
 
 ```typescript
 const kytyji = {
@@ -55,6 +55,7 @@ const kytyji = {
 
 ### AI & Automation
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-58a6ff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMiAxOGMtMy4zMSAwLTYtMi42OS02LTZzMi42OS02IDYtNiA2IDIuNjkgNiA2LTIuNjkgNi02IDZ6Ii8+PC9zdmc+&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -68,10 +69,10 @@ const kytyji = {
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![Substance Painter](https://img.shields.io/badge/Substance_Painter-FF6B00?style=for-the-badge&logo=adobe&logoColor=white)
 ![Nomad Sculpt](https://img.shields.io/badge/Nomad_Sculpt-2D2D2D?style=for-the-badge&logo=sculpin&logoColor=white)
-![Sketchfab](https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white)
 
 ### Mobile & Desktop
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 </div>
@@ -81,10 +82,6 @@ const kytyji = {
 
 ## 🤖 3D Hardsurface Art
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a1628,100:0d1117&height=2&section=header" width="100%"/>
-
 | Skill | Tools | Status |
 |-------|-------|--------|
 | 🛠️ **Hardsurface Modeling** | Blender, Nomad Sculpt | ✅ Production |
@@ -93,19 +90,10 @@ const kytyji = {
 | 📊 **GPU Optimization** | Unity Profiler, LODs, Batching | ✅ Production |
 | 🔬 **Tech Art UE5** | Niagara, Material Editor, Nanite | 🔄 Learning |
 
-<br/>
-
-[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/kytyji)
-[![Sketchfab](https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white)](https://sketchfab.com/kytyji)
-
-</div>
-
 <!-- SECTION DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1628,100:0d1117&height=3&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
-
-<div align="center">
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -116,26 +104,26 @@ const kytyji = {
 | 🤖 **JSWorker** | Telegram bot + automation worker | Cloudflare Workers, Telegram API |
 | 🔧 **3D Portfolio** | Hardsurface props, game-ready assets | Blender, Substance Painter, UE5 |
 
-</div>
-
 <!-- SECTION DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1628,100:0d1117&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kytyji&theme=github_dark" height="165" alt="Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kytyji&theme=github_dark" height="165" alt="Top Languages"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kytyji&theme=github_dark" width="100%" alt="Stats"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=kytyji&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kytyji&theme=github_dark" alt="Top Languages" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kytyji&theme=github_dark" alt="Productive Time" width="49%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kytyji&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b00&area=true&area_color=1a3a5c" width="100%" alt="Activity Graph"/>
+  <img src="https://streak-stats.demolab.com?user=kytyji&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kytyji&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b00&area=true&area_color=1a3a5c" width="100%" alt="Activity Graph"/>
 </div>
 
 <!-- SECTION DIVIDER -->
@@ -144,7 +132,7 @@ const kytyji = {
 ## 🐍 Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/kytyji/kytyji/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/kytyji/kytyji/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <!-- SECTION DIVIDER -->
@@ -159,8 +147,4 @@ const kytyji = {
 [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/kytyji)
 [![Sketchfab](https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white)](https://sketchfab.com/kytyji)
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
 </div>
