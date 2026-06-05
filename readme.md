@@ -113,12 +113,12 @@ const kytyji = {
   <img
     src="https://raw.githubusercontent.com/kytyji/kytyji/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
     alt="Top Languages"
-    width="49.5%"
+    width="49.75%"
   /><!--
   --><img
     src="https://raw.githubusercontent.com/kytyji/kytyji/main/profile-summary-card-output/github_dark/4-productive-time.svg"
     alt="Productive Time"
-    width="49.5%"
+    width="49.75%"
   />
 </div>
 
