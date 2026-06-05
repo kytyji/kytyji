@@ -130,14 +130,6 @@ const kytyji = {
   <img src="https://github-readme-activity-graph-tan-mu.vercel.app/graph?username=kytyji&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b00&area=true&area_color=1a3a5c" width="100%" alt="Activity Graph"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats-vercel-phi.vercel.app?user=kytyji&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="100%"/>
-</div>
-
-<div align="center">
-      <img src="https://github-readme-activity-graph-tan-mu.vercel.app/graph?username=kytyji&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b00&area=true&area_color=1a3a5c" width="100%" alt="Activity Graph"/>
-</div>
-
 <!-- SECTION DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1628,100:0d1117&height=3&section=header" width="100%"/>
 
