@@ -109,24 +109,26 @@ const kytyji = {
 
 ## 📊 GitHub Stats
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img
-        src="https://raw.githubusercontent.com/kytyji/kytyji/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
-        alt="Top Languages"
-        width="100%"
-      />
-    </td>
-    <td width="50%">
-      <img
-        src="https://raw.githubusercontent.com/kytyji/kytyji/main/profile-summary-card-output/github_dark/4-productive-time.svg"
-        alt="Productive Time"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/kytyji/kytyji/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    alt="Top Languages"
+    width="49.5%"
+  /><!--
+  --><img
+    src="https://raw.githubusercontent.com/kytyji/kytyji/main/profile-summary-card-output/github_dark/4-productive-time.svg"
+    alt="Productive Time"
+    width="49.5%"
+  />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats-vercel-phi.vercel.app?user=kytyji&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph-tan-mu.vercel.app/graph?username=kytyji&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b00&area=true&area_color=1a3a5c" width="100%" alt="Activity Graph"/>
+</div>
 
 <div align="center">
   <img src="https://streak-stats-vercel-phi.vercel.app?user=kytyji&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="100%"/>
