@@ -110,10 +110,6 @@ const kytyji = {
 ## 📊 GitHub Stats
 
 <div align="center">
-              <img src="https://raw.githubusercontent.com/kytyji/kytyji/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Stats"/>
-</div>
-
-<div align="center">
               <img src="https://raw.githubusercontent.com/kytyji/kytyji/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages" width="49%"/>
               <img src="https://raw.githubusercontent.com/kytyji/kytyji/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="49%"/>
 </div>
