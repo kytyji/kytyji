@@ -80,14 +80,14 @@ const kytyji = {
 <!-- SECTION DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1628,100:0d1117&height=3&section=header" width="100%"/>
 
-## 3D Hardsurface Art
+## 3D Hardsurface Art / Tech Art / GameDev
 
 | Skill | Tools | Status |
 |-------|-------|--------|
-| 🛠️ **Hardsurface Modeling** | Blender, Nomad Sculpt | ✅ Production |
-| 🎨 **Texturing & Shading** | Adobe Substance Painter | ✅ Production |
+| 🛠️ **Hardsurface Modeling** | Blender + addons, Nomad Sculpt | ✅ Production |
+| 🎨 **Texturing** | Adobe Substance Painter, Adobe Sampler, Krita, PS | ✅ Production |
 | ⚙️ **Shader Setup** | ShaderGraph, HLSL | ✅ Production |
-| 📊 **GPU Optimization** | Profiling, LODs, Batching, Materials, Textures, Shaders | ✅ Production |
+| 📊 **Optimization** | Profiling, LODs, Batching, Materials, Textures, Shaders, Async loading systems | ✅ Production |
 | 🔬 **Tech Art UE5** | Niagara, Material Editor, Nanite | 🔄 Learning |
 
 <!-- SECTION DIVIDER -->
