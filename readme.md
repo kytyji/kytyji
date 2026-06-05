@@ -86,8 +86,8 @@ const kytyji = {
 |-------|-------|--------|
 | 🛠️ **Hardsurface Modeling** | Blender, Nomad Sculpt | ✅ Production |
 | 🎨 **Texturing & Shading** | Adobe Substance Painter | ✅ Production |
-| ⚙️ **Shader Setup** | Unity ShaderGraph, HLSL | ✅ Production |
-| 📊 **GPU Optimization** | Unity Profiler, LODs, Batching | ✅ Production |
+| ⚙️ **Shader Setup** | ShaderGraph, HLSL | ✅ Production |
+| 📊 **GPU Optimization** | Profiling, LODs, Batching, Materials, Textures, Shaders | ✅ Production |
 | 🔬 **Tech Art UE5** | Niagara, Material Editor, Nanite | 🔄 Learning |
 
 <!-- SECTION DIVIDER -->
@@ -97,12 +97,12 @@ const kytyji = {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🗂️ **ZenPlan** | Offline-first B2B ERP & task tracker | React, PowerSync, Supabase, Capacitor |
-| 👗 **CraftedFashion** | B2B fashion services platform | Next.js, Cloudflare, Supabase, Resend |
-| 🎮 **SYNTHESIS** | Cyberpunk factory-management game | Unreal Engine 5, C++ |
-| 📦 **B2B Supplier Parser** | Multi-source price aggregation system | Node.js, TypeScript, Docker |
+| 🗂️ **ZenPlan** | Offline-first B2B ERP & task tracker with cloud sync | React, PowerSync, PostreSQL, SQLite, Capacitor  |
+| 👗 **CraftedFashion** | B2B fashion services platform | Next.js, Cloudflare, Supabase, Resend, Custom API |
+| 🎮 **SYNTHESIS** | Cyberpunk fps game | Unreal Engine 5, C++, BP |
+| 📦 **B2B Supplier Parser** | Multi-source price aggregation system with custom API adapter | Node.js, TypeScript, Docker |
 | 🤖 **JSWorker** | Telegram bot + automation worker | Cloudflare Workers, Telegram API |
-| 🔧 **3D Portfolio** | Hardsurface props, game-ready assets | Blender, Substance Painter, UE5 |
+| 🔧 **3D Portfolio** | Hardsurface props, game-ready assets | Blender, Substance Painter, UE5, Unity |
 
 <!-- SECTION DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1628,100:0d1117&height=3&section=header" width="100%"/>
