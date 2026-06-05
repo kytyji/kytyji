@@ -109,10 +109,24 @@ const kytyji = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-              <img src="https://raw.githubusercontent.com/kytyji/kytyji/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages" width="49%"/>
-              <img src="https://raw.githubusercontent.com/kytyji/kytyji/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="49%"/>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img
+        src="https://raw.githubusercontent.com/kytyji/kytyji/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
+        alt="Top Languages"
+        width="100%"
+      />
+    </td>
+    <td width="50%">
+      <img
+        src="https://raw.githubusercontent.com/kytyji/kytyji/main/profile-summary-card-output/github_dark/4-productive-time.svg"
+        alt="Productive Time"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://streak-stats-vercel-phi.vercel.app?user=kytyji&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="100%"/>
