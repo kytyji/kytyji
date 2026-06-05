@@ -9,7 +9,7 @@
 
 ---
 
-## 🧹 About Me
+## About Me
 
 ```typescript
 const kytyji = {
@@ -37,7 +37,7 @@ const kytyji = {
 <!-- SECTION DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1628,100:0d1117&height=3&section=header" width="100%"/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -80,7 +80,7 @@ const kytyji = {
 <!-- SECTION DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1628,100:0d1117&height=3&section=header" width="100%"/>
 
-## 🤖 3D Hardsurface Art
+## 3D Hardsurface Art
 
 | Skill | Tools | Status |
 |-------|-------|--------|
@@ -93,7 +93,7 @@ const kytyji = {
 <!-- SECTION DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1628,100:0d1117&height=3&section=header" width="100%"/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -107,7 +107,7 @@ const kytyji = {
 <!-- SECTION DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1628,100:0d1117&height=3&section=header" width="100%"/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img
@@ -133,7 +133,7 @@ const kytyji = {
 <!-- SECTION DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1628,100:0d1117&height=3&section=header" width="100%"/>
 
-## 🐍 Contribution Graph
+## Contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kytyji/kytyji/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -142,7 +142,7 @@ const kytyji = {
 <!-- SECTION DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1628,100:0d1117&height=3&section=header" width="100%"/>
 
-## 🌐 Connect
+## Connect
 
 <div align="center">
 
