@@ -13,23 +13,24 @@
 
 ```typescript
 const kytyji = {
-  location: "Moscow, Russia 🇷🇺",
+  location: "Moscow, Russia",
   roles: [
     "Full-Stack Developer & Entrepreneur",
     "3D Hardsurface Artist",
     "Tech Artist (in progress: UE5 tools)"
   ],
-  focus: ["B2B SaaS", "AI Agents", "Game Development", "3D Art & Tech Art"],
+  focus: ["B2B services", "AI Agents", "Game Development", "3D Art & Tech Art"],
   currentProjects: [
-    "ZenPlan — offline-first B2B ERP/task tracker",
-    "CraftedFashion — B2B fashion services platform",
-    "SYNTHESIS: EVOLUTION OF THE CITY — cyberpunk UE5 game",
-    "B2B Supplier Parser — multi-source price aggregator"
+    "ZenPlan - offline-first B2B ERP/task tracker",
+    "CraftedFashion - B2B customer fashion services",
+    "SYNTHESIS - cyberpunk UE5 FPS multiplayer game and plugins",
+    "B2B Supplier Parser - multi-source price aggregator with analytics",
+    "Rise and grow LL, diff, vision models and implement it in business processes"
   ],
   funFacts: [
     "I also know how to construct garment patterns ✂️",
     "Sculpt & bake hardsurface props for games 🔧",
-    "Learning UE5 tech art tools for GPU optimization 📊"
+    "Learning Unreal Engine tech art tools for GPU/CPU/RAM optimization 📊"
   ]
 };
 ```
