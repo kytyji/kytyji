@@ -13,7 +13,6 @@
 
 ```typescript
 const kytyji = {
-  location: "Moscow, Russia",
   roles: [
     "Full-Stack Developer & Entrepreneur",
     "3D Hardsurface Artist",
