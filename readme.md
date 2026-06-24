@@ -99,7 +99,7 @@ const kytyji = {
 |--------|-------------|-------|
 | 🗂️ **ZenPlan** | Offline-first B2B ERP & task tracker with cloud sync | React, PowerSync, PostreSQL, SQLite, Capacitor  |
 | 👗 **CraftedFashion** | B2B fashion services platform + own telegram bot conversations via WebApp + bidirectional autotranslater | Next.js, Cloudflare, Supabase, Resend |
-| 🎮 **SYNTHESIS** | Cyberpunk-style fps multiplayer game with destruction systems, also learning Metahuman/Chaos/Advanced optimization hacks | Unreal Engine 5, C++, BP |
+| 🎮 **SYNTHESIS** | WIP Cyberpunk-style fps multiplayer game with destruction systems, also learning Metahuman/Chaos/Advanced optimization hacks | Unreal Engine 5, C++, BP |
 | 📦 **B2B Supplier Parser** | Multi-source price aggregation system with custom API adapter | Node.js, TypeScript, Docker |
 | 🤖 **JSWorker** | Telegram bot + automation worker | Cloudflare |
 | 🔧 **3D Portfolio** | Hardsurface props, game-ready assets | Blender, Substance Painter, UE5, Unity |
