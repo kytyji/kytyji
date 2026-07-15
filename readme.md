@@ -20,9 +20,9 @@ const kytyji = {
   ],
   focus: ["B2B services", "AI Agents", "Game Development", "3D Art & Tech Art"],
   currentProjects: [
-    "ZenPlan - offline-first B2B ERP/task tracker",
+    "ZenPlan - offline-first B2B ERP/task tracker and prj management tool as a web shell",
     "CraftedFashion - B2B customer fashion services",
-    "SYNTHESIS - cyberpunk UE5 FPS multiplayer game and plugins",
+    "SYNTHESIS - cyberpunk UE5 FPS multiplayer game, dev tools and plugins",
     "B2B Supplier Parser - multi-source price aggregator with analytics",
     "Rise and grow LL, diff, vision models and implement it in business processes"
   ],
