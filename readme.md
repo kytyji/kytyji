@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+B2B+SaaS+%F0%9F%9A%80;Crafting+AI+Agents+%F0%9F%A4%96;3D+Hardsurface+Artist+%F0%9F%AA%96;Developing+Games+in+UE5+%26+Unity+%F0%9F%8E%AE;Architecting+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Tech+Art+%7C+Shaders+%7C+GPU+Optimization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+B2B+Services+%F0%9F%9A%80;Crafting+AI+Agents+%F0%9F%A4%96;3D+Hardsurface+Artist+%F0%9F%AA%96;Developing+Games+in+UE5+%26+Unity+%F0%9F%8E%AE;Architecting+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Tech+Art+%7C+Shaders+%7C+GPU+Optimization" alt="Typing SVG" />
 </div>
 
 ---
