@@ -20,7 +20,7 @@ const kytyji = {
   ],
   focus: ["B2B services", "AI Agents", "Game Development", "3D Art & Tech Art"],
   currentProjects: [
-    "ZenPlan - offline-first B2B ERP/task tracker and prj management tool as a web shell",
+    "ZenPlan - offline-first B2B service desk and prj management tool as a web shell + omnichat",
     "CraftedFashion - B2B customer fashion services",
     "SYNTHESIS - cyberpunk UE5 FPS multiplayer game, dev tools and plugins",
     "B2B Supplier Parser - multi-source price aggregator with analytics",
@@ -99,7 +99,7 @@ const kytyji = {
 |--------|-------------|-------|
 | 🗂️ **ZenPlan** | Offline-first B2B ERP & task tracker with cloud sync | React, PowerSync, PostreSQL, SQLite, Capacitor  |
 | 👗 **CraftedFashion** | B2B fashion services platform + own telegram bot conversations via WebApp + bidirectional autotranslater | Next.js, Cloudflare, Supabase, Resend |
-| 🎮 **SYNTHESIS** | WIP Cyberpunk-style fps multiplayer game with destruction systems, also learning Metahuman/Chaos/Advanced optimization hacks | Unreal Engine 5, C++, BP |
+| 🎮 **SYNTHESIS** | WIP Cyberpunk-style fps multiplayer game with destruction systems, also learning Metahuman/Chaos/Advanced optimization hacks, plugin-making | Unreal Engine 5, C++, BP |
 | 📦 **B2B Supplier Parser** | Multi-source price aggregation system with custom API adapter | Node.js, TypeScript, Docker |
 | 🤖 **JSWorker** | Telegram bot + automation worker | Cloudflare |
 | 🔧 **3D Portfolio** | Hardsurface props, game-ready assets | Blender, Substance Painter, UE5, Unity |
